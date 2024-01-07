@@ -1,0 +1,27 @@
+.transaction {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  margin-top: 20px;
+  text-align: center;
+  width: 300px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.tableHeader {
+  width: 103px;
+  color: white;
+  background-color: #2a2a2a ;
+  border: 1px solid black;
+}
+
+.tableCell {
+  padding: 0;
+  border: 1px solid black;
+  font-size: 12px;
+}
+
+.row_table:nth-child(even) {
+  background-color: #d3d3d3;
+}

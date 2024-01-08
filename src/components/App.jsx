@@ -1,5 +1,5 @@
 import './App.css';
-import { Profile } from './profile';
+import { Profile } from './Profile';
 import { FriendList } from './FriendList';
 import { TransactionHistory } from './TransactionHistory';
 import userData from "../userData.json";

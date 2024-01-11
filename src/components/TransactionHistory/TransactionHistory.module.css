@@ -20,7 +20,7 @@
 .tableCell {
   padding: 5px 0px;
   border: 1px solid black;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .row_table:nth-child(even) {

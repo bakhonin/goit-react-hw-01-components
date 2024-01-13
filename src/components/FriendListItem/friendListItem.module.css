@@ -7,6 +7,9 @@
   border: 1px solid black;
   border-radius: 5px;
   background-color: #fff;
+  -webkit-box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
+  -moz-box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
+  box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
 }
 
 .status {

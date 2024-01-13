@@ -7,6 +7,9 @@
   width: 450px;
   border: 1px solid black;
   border-collapse: collapse;
+  -webkit-box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
+  -moz-box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
+  box-shadow: 9px -2px 13px -4px rgba(43, 42, 68, 0.61);
 }
 
 .tableHeader {

@@ -26,3 +26,7 @@
 .row_table:nth-child(even) {
   background-color: #d3d3d3;
 }
+
+.row_table:nth-child(odd) {
+  background-color: white;
+}

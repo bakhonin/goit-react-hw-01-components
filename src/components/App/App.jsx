@@ -1,4 +1,4 @@
-import styles from './App.module.css';
+import css from './App.module.css';
 import { Profile } from '../Profile/Profile';
 import { FriendList } from '../FriendList/FriendList';
 import { TransactionHistory } from '../TransactionHistory/TransactionHistory';
@@ -8,7 +8,7 @@ import transactions from '../../data/transactions.json';
 
 export function App() {
   return (
-    <div className={styles.container}>
+    <div className={css.container}>
       <Profile
         name={userData.username}
         tag={userData.tag}
